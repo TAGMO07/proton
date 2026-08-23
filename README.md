@@ -1,18 +1,17 @@
 # Prerequisites
-###########
-- JDK 21
-- Maven 3.9 
+#######
+- JDK 25
+- Maven 4.0
 - MySQL 8
 
 # Technologies 
-- JAKARTA
 - Spring MVC
 - Spring Security
 - Spring Data JPA
 - Maven
 - JSP
 - Tomcat
-- MySQL
+- MySQL 8
 - Memcached
 - Rabbitmq
 - ElasticSearch
